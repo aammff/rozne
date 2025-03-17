@@ -1,0 +1,48 @@
+z takich nieoczywistych banałów jest programowanie bezstanowe
+
+tzn chodzi o ot ze na poczatku jak ludzie programowali to uza uzywali czegos takiego jak tablice no albo zmienne 
+
+no z czyms takim sa co jakies tam m petle zwiazane i co chyba trudno ciezko jakostam semantyke matematyczne czegos takiego potem podac
+
+w kazdym razie co sa jakies algorytmy ktore ewidentnie jakis jakichstam tablic wymagaja i sie jakos nie bardzo da inaczej
+
+no ale ilestam lat temu wyszla taka ksiazeczka autora chyba chris okasaki  tytul chyba functional data structures czy costam
+
+i tam duzo ni no nie pamietam ale podjr podejrzewam ze tam duzo roznych trikow jak w stylu f tzw funkcyjnym rozne tzw imperatywne struktury danych implementowac tj ogolnie ze sia sie da
+
+koszt zazwyczaj nie jest gorszy takiej zabawy niz logarytm
+
+
+i co tam e w tym calym programowaniu fyn funkcyjnym pytah pytajnik namietnie uzywa sie rekurencji rekursji i czy kazdy program z rekursja rekurencja daje sie spowrotem przerobic na program bez rekursji rekurencji
+
+no chyba tak i no bo wystarczy po prostu pytajnik po prostu jakas maszyne wirtualna zaimplementowac i tam jakistam bytecode n bja bajtkod i po pytajnik problemie
+
+
+z trikow to jest tam te n tail tajk tajl kol call elimination czy costam   w kazdym raize wa w kazdym razie sie okazalo ze no jakostam chyba w miare jak nie dokladnie wszystkie programy mozna przepisac
+
+na styl ten matematyczny ze wiadomo co jest co i j nie jest tak ze jak pamietam pierwszy raz pwi widzialem jakies programy w jakimstam dziwnym jezyku boje sie nazwy podac bo wyjdzie ze to jakis
+
+nie powiem co na p to tam byy byly instrukcje d tzw przypisania i tam jest ze zmianna potem znak rownosci i jakiestam wyrazenie i taki napisa napis no r zrozumiec co to znaczy to pamietam ze nie nmoglem tego zrozumiec
+
+tzn zanim assemblera jakos dokladniej nie poznalem to nie wiedizalem o co chodzi w tych programoach  ale je jak sie tam po potem czytalo czytalo te rozne programy to jednak sam s z siebie ten styl z rekurencjami n do glowy nie przychodzi
+
+
+mialem d troche doswiadczdn doswiadczen przy projektach przy programach wielowatkowych pisanych no wiadomo w tym najbardziej popularnym stylu w tych pou poularnych jezykach tych no imperatywnych i to straszna chala jest
+
+bo to nie da sie czegos takiego zrobuci jak napisac poprawnie bo nie da sie zorzumiec jak to dziala i to jest takie co zaklinanie wezy no programowanie w pythonie to takie zaklinanie wezy no tzn to nie jest programowanie
+
+tzn mialem st takie straszne dow doswiadczenie to dostalem prykaz usuwania wywloa wywolan sleep z programu proram program kod zrodlowy programiu byl zasrany tymi sleepami bo costam nie dzialalo o to debile wstawili sleepy
+
+i im dzialalo ale wiaodmo ze to sie bedzie sypac i mi miedzy innymi mi da takie zadanko dali zeby m te sleepy pousuwal no iwoad no i wiadomo ze program z tymi sleepaami byl niepoprawny ale tak samo y bylo wiadmo ze usuniecie
+
+tych sleepow to tez byl program niepoprawny i takie wlasnie zadanie  no pociac sie mozna potem nie da sie spokjo no to jest zadanie w stylu z bylo zle zrob zle  nie dalo sie dosjc co i jak program na nie wiem iletysice ilinii
+
+czy tam pieciesiat tydiecy linii jakostamk nie pamietam   takze co takie programy jey jezyi jezyki projektowania p koszmarow ogolnie te  no mozna sobie cos costam malego napisac ale do wiekszych rzeczy to sie nie nadaje jak
+
+komus zalezy na poprawnosci programu     prypo p przypominaja mi sie zalecenia l nasa w sprawie pr pisania programow poprawnych ze oni tam np takie d zalecenia w stylu zeby tam nie bylo wiecej niz ilestma poziomow zagniezdzen
+
+n tzn jest sporo takich smiesznych rad ktore niej nie nijak sie maja do wspolczesnych jakby technik wiadomo ze cokolwiek ni ze cokolwiek be napisanego w tych starszych jezykach to jest pole minowe po prostu i i takm ta
+
+no linux tez jest niby tak napisany ale oni strasznie jakby uwazaja a   tzn programowanie s w stylu kaskaderskim ot to przypomina ze sie strasznie trzeba znac zeby czegos przypadkiem zle nie napisac a i tak to no takie
+
+cos sie pop prostu srednio skaluje i no proba czasu no to wiadomo    no ogolnie wniosek taki ze sa ja jezyki do pisania mniej wiecej poprawnych programow i sa jezyki do pisania poprawnych programow
