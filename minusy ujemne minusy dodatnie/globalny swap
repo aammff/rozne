@@ -7,3 +7,15 @@ z bezpieczenstwem tez i tez mozna sobie popsuc glowe przy hibernajcach nie u nie
 tzn to jest jakis por prototyp pomyslu jal ale takie typowe zastosowanie z swapu to no to jest taki no to jest powiazane z techinczna mozliwoscia zeby cos takiego
 
 zrobic ale no teraz jakby no to nie powinien byc default tak sadze tak uz uwazam z takze wszystkie systmy ktore tego uzywaja i nie jest napisane po co to jest ryzyko
+
+
+
+no to sa jakby style segmantacji czyli w przypadku swapu mamy do czynienia z segmentacja mieszana pamieciowo dyskowa to jest takie no niewiadomo troche po co
+
+segmentacja jakby ruchama ruchoma zmian zmienna konfigurowana to jest ten tryb chroniony w trzy osiem szesc i wyzej i no i moze w dwa osiem szesc tez byly
+
+zaczatki wczesniej ta segmentacja byla jakby malookienkowa niekonfigurowalna  no i jakby co to ze segmentacja jest dostepna i konfigurowalna nie oznacza zaraz
+
+zeby jakies swapy do tego dolaczac tez mozna smieszne rzeczy robic typu swapowac na karte graficzna na karte sieciowa i tego typu numery
+
+no a amiga dosc smiesna bo tam bylo niechroniona jakby bp pamiec tzn tam te segmenty to nie wiem czy byly czy ich nie bylowcale a byla duza przestrzen pamieci wspolna
