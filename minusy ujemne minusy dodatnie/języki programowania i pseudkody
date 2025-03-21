@@ -50,3 +50,13 @@ jest taki zarcik ze nie nalezy uzywac czy kiedys nie nalezalo uzywac linuxa t do
 uzywac a ja np programawaloem systemy bci brain computer ingterace fw pyhonie czyli jakby tego na pewno nie nalezy robic bo to strasznie w syfny system byl totalnie niepoprawny
 
 i powaga dzialal probabilistycznie po prostu takze to wlasnie fizyk takie cos obmyslil no i tu jakby sie mozna przytoczyc s ze fizycy sie na informatyce nie znaja bo pythona uzywaja
+
+
+jak sie jezyka nie da skompilowac to lepiej tego nie uzywac bo to jest ryzyko ze to ni ejest zaden jezyk tylko interpreter niewiadomo czego w budowie
+
+takze to ze nie ma evala w juzyk jezyku to mozna tez widziec jao jako jakies zabezpieczneie i ogolnie mozna sie przyjrzec jak ten eval konkretnie dziala i co robi i jaki
+
+to ma wplyw na binarke skomplikowana i jej rozmiar
+
+
+ogolnie mysle ze jeyzki ktorych kompilator y produkuja niewiaodmo jak wielkie binarki niewiadomo dlaczego tez sa niebezpieczne i to tez jae jest jakis walek i przekret mimo wszystko
