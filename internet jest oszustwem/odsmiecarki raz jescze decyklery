@@ -1,0 +1,40 @@
+odsmiecarki raz jeszcze ec decyklery
+
+no to w tych alogicznych afukncyjnych jezykach to w miare mozna sie domyslic kiedy odsmiecarke n j pseudo mialoby sens odpalac ale trudniej decykler ale trudniej sie domyslic
+
+kiedy w tych jezykach funkcyjnych albo logicznych no i mysle ze to jest k to podam tu rozwiazanie jakie mi dlo glowy przychodzie z bo przeciez funkcyjnie sie bez stanu programuje
+
+tj przypisanie najwyzej raz na ca cialo funkcji no to jest kwestia czes czegos t o nazwie tco tka mi sie wydaje tail call optimization tail call eliminator elimination
+
+tzn w lisp scheme to tam sa te sety z wykrzyknikami to wtedy dostajemy to co w tych imperatywnych jezykach i wtedy wiaodomo kiedy sie moze memory leka leak zrobic
+
+natomiast w t c o no to tam o a no wlasnie mozna sprytnie zachachmecic jak sie czlowiek postara zeby jakby sie memory leak zrobil pamiec wyciekla wiec to jest t wlasnie
+
+kwestia chyba tych wywolan miedzy tco j  no i to samo w pr w jezykach tych logi no w pro  logu ze tyle ze tam tc tail call elimination optimization modulo cons jest dodatkowo
+
+to tam ts ls sluzy w prologu bardzo dobrze pasuje  tzn tam jest taki problem ze tam jak sie nie nampisze tego sprytnie to nie wiea w wiadomo czy jest tco czy nie ma i wtedy 
+
+wlasnie chyba po to albo z mody o taka moda byla ze oni te decyklery montowali natomiast jak sa sprytne kompilatory interpretery zy czy costam to esie moze zorientowac ze 
+
+jest wywlo wywolanie tco i pamiec wycieg wyciekgac nie bedzie   ale albo mozna jak jakis jeden jezyk i drugie no to oznaczac jakos w miare recznie ktore czy dodatkowo ew wskazywac
+
+ze o tutaj jest tco i ze jak i ze musi byc bo inaczej petli sie nie da zrobic czy costam
+
+no to wlasnie tea takie troche moze poklosie tego di ze ta ze goto considered harmful takiego pierdolenia ze tak tam ludzie asem nie znaja i nie wiedza co to jmp i poi  potem glupieja
+
+bo probuje jmp skok instrukcje skoku wymyslec na nowo a to jest dosc trudne jak wczesniej zostala zapomniana taka instrukcja bo nimby niby jest zla i niedobra i wymyslaja takie wlasnie
+
+gowno jak decyklery czy   no i jeszcze w por p  w prologu sa te dynamici dynamic i c tochy ba taki wlasnie odpowiednik set z wykrzyknikiem z e ze scheme albo zwyklego tam przypisaniea troche
+
+cos w tym stylu   dobrze jak sie na tym co nagorze napisalem slabo znam boga moga byc glupoty albo c bledy   ale mysle ze wkl wlasnie w d tych deklaratywnych jezykach co niby przypisan nie ma
+
+no to ja wlasnie kwestia tego co sie dzieje przy okazji tco ktor ktore jest bardzo ciekawym pojeciem poniewaz to jest o tym co jest miedzy definicja a implementacja 
+
+
+moim imho zdaniem to jest jakis rozdzwiek jesli z w scheme jakby wywolania tpy typu tco i typu nie tco wykladaja w tekscie kodu w kodzie zrodlowym zupelnie teak samo to jest blad projektowy jezyka
+
+tzn w jakims sensie no tzn tao to jest takie p miejsce t do zastanawiania sie jakby bo niestety stety nie wiem jak to jest czy to jest tak ze kazdy no te kwestia kwestie wlasnie k gdzie ta deklaratywnosc
+
+sie zaznacza jakos mniej lub bardziej bolesnie   jest albo nie jest blad bo np taki kod a haskellowy nie wie wi nie wiadomo jak bardzo skomplikowany to jest moze byc super sprytnie skomplilowany t do kilku
+
+instrukcji assemblerowych przykladowo no ale  no ogolnie tail co call optimization tail call eliminator modulo cons itd jest super hiper wazny bo inaczej sie petli nie da zrobic zeby pamieci nie przepelnilo
